@@ -99,7 +99,7 @@ Hemos creado estas tres secciones en nuestra página. Esperamos que te gusten mu
 </div>
 </div>
 <div class="col-lg-4 col-md-6 text-right">
-<a href="projects.html" class="default-btn">Ver todos</a>
+<a href="projects.php" class="default-btn">Ver todos</a>
 </div>
 </div>
 <div id="projects-carousel" class="projects-carousel box-shadow owl-carousel">
