@@ -20,7 +20,7 @@ include_once("header.php")
 <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">Salvamos y rescatamos todos los animales</div></div></div>
 <div class="dl-btn-group">
 <div class="inner-layer">
-<a href="projects.html" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">VER RESCATES <i class="arrow_right"></i></a>
+<a href="projects.php" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">VER RESCATES <i class="arrow_right"></i></a>
 </div>
 </div>
 </div>
